@@ -21,25 +21,25 @@ Refyyn is a simple feedback management tool you can host yourself. Users can sub
 
 ### 1. Admin Dashboard
 
-<img src=".github/images/admin-dashboard.png" alt="Admin Dashboard" width="100%">
+<img src=".github/images/admin-dashboard.png" alt="Admin Dashboard" width="90%">
 
 Manage all feedback from one place. View submissions, change statuses, organize into boards, and track what matters.
 
 ### 2. Public Feedback Board
 
-<img src=".github/images/what-users-see.png" alt="Public Feedback Board" width="100%">
+<img src=".github/images/member-view.png" alt="Public Feedback Board" width="90%">
 
 Users can submit feedback, upvote existing requests, and comment on items. Everything is organized into customizable boards.
 
 ### 3. Public Roadmap
 
-<img src=".github/images/roadmap.png" alt="Public Roadmap" width="100%">
+<img src=".github/images/roadmap.png" alt="Public Roadmap" width="90%">
 
 Share your product roadmap publicly. Users can see what's planned, in progress, and completed.
 
 ### 4. Changelog
 
-<img src=".github/images/changelog.png" alt="Changelog" width="100%">
+<img src=".github/images/changelog.png" alt="Changelog" width="90%">
 
 Publish updates and release notes to keep users informed about what's new.
 
